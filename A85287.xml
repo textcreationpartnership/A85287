@@ -1,0 +1,189 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A fight at sea two ships taken by Prince Charles his officers. And Prince Charles very ill, and in danger of death. The Lord Willoughby and Sir John Batten, both put out, and Prince Rupert made Admirall, and Captian Robert Welch Vice-Admirall. The Estates message to Vantrumpe, and the agreement at the treaty. Also other extraordinary news from the Earle of Warwicks ships. Brought on Munday November 6, 1648.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A85287</idno>
+            <idno type="STC">Wing F896</idno>
+            <idno type="STC">Thomason E470_13</idno>
+            <idno type="EEBO-CITATION">50805848</idno>
+            <idno type="OCLC">ocm 50805848</idno>
+            <idno type="VID">162386</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A85287)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 162386)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 75:E470[13])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A fight at sea two ships taken by Prince Charles his officers. And Prince Charles very ill, and in danger of death. The Lord Willoughby and Sir John Batten, both put out, and Prince Rupert made Admirall, and Captian Robert Welch Vice-Admirall. The Estates message to Vantrumpe, and the agreement at the treaty. Also other extraordinary news from the Earle of Warwicks ships. Brought on Munday November 6, 1648.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for H. Becke, and are to be sold in the Old Bayley,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "nu: 7".</note>
+                  <note>Reproduction of original in: British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  II, --  King of England, 1630-1685.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Naval operations.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-04</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-04</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:162386:1" rendition="simple:additions"/>
+            <p>A FIGHT AT SEA TWO Ships taken by Prince CHARLES his Officers. And Prince Charles very ill, and in danger of Death.</p>
+            <p>THE Lord Willoughby and Sir John Batten, both put out, and Prince Rupert made Admirall, and Captain Robert Welch Vice-Admirall.</p>
+            <p>The Eſtates Meſſage to Vantrumpe, And the agreement at the Treaty.</p>
+            <p>ALSO Other Extraordinary News from the Earle of Warwicks Ships.</p>
+            <p>Brought on <hi>Munday November</hi> 6, 1648.</p>
+            <p>
+               <add>no: 7</add> LONDON, Printed for H. Becke, and are to be ſold in the Old Bayley. 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:162386:2"/>
+            <pb n="1" facs="tcp:162386:2"/>
+            <head>A Fight at SEA, two Ships taken by Prince Charles his Officers.</head>
+            <head type="sub">And Prince Charles very ill, and in danger of Death.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> Know many eyes are upon us, yet I doubt not, but that we ſhall give ſuch an account of this buſineſſe of our undertakings here, as ſhall give good ſatisfaction to the Parliament.</p>
+            <p>It is true, wee were miſtaken in our firſt thoughts, for it was ſuppoſed that the Sea<g ref="char:EOLhyphen"/>men would have all come in to the Lord Ad<g ref="char:EOLhyphen"/>mirall upon the firſt Summons, Indempnity being offered them.</p>
+            <p>But it ſeems they had not ſo much diſcre<g ref="char:EOLhyphen"/>tion, as to make uſe of that offer when it was
+<pb n="2" facs="tcp:162386:3"/>tendred, For by means of ſome monies, and an high hand together, over the Sea men, they were ſtopt from comming into us.</p>
+            <p>Yet now they are in as great <gap reason="illegible" extent="2 words">
+                  <desc>〈◊◊〉</desc>
+               </gap> as ever, nay worſe, for the Seamen flye out high againſt the Lord Willoughby and Sir <hi>Iohn <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </hi> for <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>s, and <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> they have contracted to themſelves, by deſerting the Parliament, and that they did alwayes expect the per<g ref="char:EOLhyphen"/>formance of payment of moneys from them for they promiſed it, and of them it is they expect to ſee it per<g ref="char:EOLhyphen"/>formed.</p>
+            <p>And their wants are very great, having ſpent ſince they arrived in Holland, not only the pillage of their Piracies, but what they brought away from England.</p>
+            <p>Hereupon ſeverall Councells of Warre were called to conſider what to doe, and upon advice there a<g ref="char:EOLhyphen"/>mongſt them, Prince Charles and the Agents have been ſolicited by the Lord Willoughby, Sir John B<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ten; and other Officers; And they have had good words, but no monies.</p>
+            <p>At laſt the Lord Willoughby went to the <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> told him that there muſt ſome courſe be taken for mo<g ref="char:EOLhyphen"/>nies, or elſe the Sea-men would all diſſert them, and that he could not keepe them in order without ſome thing for them to ſubſiſt by.</p>
+            <p>Then his Lordſhip was deſired to try what intereſt he could make for the borrowing of monies for the Prince, to give the Sea-men ſome pay, and that hee ſhould do what he could to keep them in Order.</p>
+            <p>The Prince alſo declared unto him, that he would deſire them that they would be contented (only) untill
+<pb n="3" facs="tcp:162386:3"/>the Treaty between the King his Father, and the Par<g ref="char:EOLhyphen"/>liament of England was ended, that they might ſee what the end thereof would be, and then they ſhould ſee, that care ſhould bee taken for them, either (in a ſhort time) to have their Arrears, and all ingagements made good to them, or elſe that they ſhould have both monies and proviſions for further imployment, if the King and Parliament ſhould not agree.</p>
+            <p>In the mean time, the Lord Admirall ſent to the Eſtates of Holland, to deſire that Van<g ref="char:EOLhyphen"/>trumpe might bee recalled from guarding of the revolted Shippes that deſerted the Parlia<g ref="char:EOLhyphen"/>ment of England, and others from the Par<g ref="char:EOLhyphen"/>liament were there ſoliciting, that ſo the Lord Admirall might have an opportunity to re<g ref="char:EOLhyphen"/>duce them.</p>
+            <p>And it was ſo farre prevailed with the E<g ref="char:EOLhyphen"/>ſtates of Holland, that an Order was paſſed that Vantrumpe ſhould withdraw, and take of<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> his guards, and thoſe ſhips of theirs be im<g ref="char:EOLhyphen"/>ployed upon other ſervice for their owne country. But I know not how it came to paſſe but ſo it was, that either it was not ſent, or not obey<g ref="char:EOLhyphen"/>ed, but I ſuppoſe there was ſome private countermand from the Prince of Orange, or elſe that Vuntrumpe durſt hardly have denyed to obey thoſe Inſtructions. And the Eſtates have ſince made another Order to ſend to Vantrumpe, to know the reaſon why thoſe Orders were not obeyed?</p>
+            <pb n="4" facs="tcp:162386:4"/>
+            <p> Whether he was to withdraw preſently, or convey them out of Gowry (which is not pro<g ref="char:EOLhyphen"/>bable) and then withdraw, I cannot tell cer<g ref="char:EOLhyphen"/>tainly: but probably the latter.</p>
+            <p>The Hollanders are much diſcontented to be at the charges, to maintaine them at their charge, for no benefit to themſelves, eſpeci<g ref="char:EOLhyphen"/>ally having ſo much uſe as they have for them at Sea.</p>
+            <p>But for (the future) perhaps they may not have altogether ſo much uſe for them as for<g ref="char:EOLhyphen"/>merly, for the generall peace is now conclud<g ref="char:EOLhyphen"/>ed and ſigned.</p>
+            <p>Now all this while Prince Charles his ſea<g ref="char:EOLhyphen"/>men goe on high in diſcontents, and breake out into factions; their generall cry being monies, mony, and indeed I do wonder how they can make ſhift as they doe.</p>
+            <p>And the Sea-men ſent to deſire Prince Charles to come to them, and give them ſome other ſatisfaction (for they were much diſ<g ref="char:EOLhyphen"/>contented at the Prince for leaving them and going to the Hague).</p>
+            <p>Yet it hath ſo fallen out, that they cannot be ſatisfied in this; for Prince Charles is ſicke
+<pb n="5" facs="tcp:162386:4"/>of the Small Pox at the Hague and is very ill of them, in great danger to fall into a Fea<g ref="char:EOLhyphen"/>ver.</p>
+            <p>The Duke of Yorke alſo and his ſiſter are neither of them well. The Duke it is beleev<g ref="char:EOLhyphen"/>ed will alſo have the Small Pox.</p>
+            <p>So that neither the Prince nor the Duke of Yorke can goe to them, whereby they are like to riſe into an high diſorder.</p>
+            <p>The Prince there by the advice of his coun<g ref="char:EOLhyphen"/>ſell about him, took into conſideration what was beſt to be done herein, for their Order and Diſcipline.</p>
+            <p>And it was concluded, that a meſſage ſhould be ſent to the Lord Willoughby, and Captaine Batten, to know their mindes, and try whe<g ref="char:EOLhyphen"/>ther they could uſe a <gap reason="illegible" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>s to ſettle and order the Sea-men untill the Treaty was <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ded.</p>
+            <p>They returned Anſwer, that they could not poſsible doe it without money, and that they could not tell how to undertake any thing in diſcharge of their places except ſome proviſi<g ref="char:EOLhyphen"/>ons was made for the Seamen.</p>
+            <p>Hereupon the Prince by advice of his councell, concluded that the Lord Willoughby
+<pb n="6" facs="tcp:162386:5"/>and Sir John Batten ſhould be diſmiſſed. And that Prince Rupert ſhould be made Admiral and that one Welſh ſhould be Vice-Admirally (this Welſh is Robert Welſh that came out of Ireland, a poore ſneaking fellow) are not thoſe like to prove good guides to an Engliſh Navy. But this will not be ſufficient to compoſe the Seamen, and notwithſtanding their intenti<g ref="char:EOLhyphen"/>ons for ſo it is deſigned to ſend Landmen over them, to over-awe them, and put a force upon them.</p>
+            <p>The time of the Treaty they ſuppoſe but ſhort, and ſo expect their work to be, and ſo not much difficult. There are ſome of Prince Charles his Officers have taken two Ships be<g ref="char:EOLhyphen"/>longing to ſome Merchants of London, which they have ſeized on, and plundered to a very great value.</p>
+            <p>Many ſhips were caſt away the laſt great windes.</p>
+            <closer>
+               <dateline>Gowry, From aboard the Vere-Admiral, Dated <date>the 3 of Novemb, 1648.</date>
+               </dateline>
+            </closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
